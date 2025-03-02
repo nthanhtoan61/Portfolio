@@ -113,7 +113,7 @@ body {
 .hero-text-container {
     flex: 1;
     text-align: left;
-    max-width: 600px;
+    max-width: 800px;
 }
 
 /* Profile Container Styles */
