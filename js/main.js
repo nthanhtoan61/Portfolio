@@ -577,7 +577,7 @@ if (contactForm) {
                 message: this.message.value
             };
 
-            const response = await fetch('https://portfolio-i34f.onrender.com/api/email/send', {
+            const response = await fetch('https://portfolio-s4rc.onrender.com/api/email/send', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
