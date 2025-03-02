@@ -27,6 +27,15 @@ body {
     min-height: 100vh;
 }
 
+/* Input placeholder */
+input::placeholder,
+textarea::placeholder {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px; /* Kích thước chữ */
+    font-weight: 400; /* Độ đậm chữ */
+    color: #888; /* Màu chữ nhạt */
+}
+
 /* Header Styles */
 .navbar {
     background: var(--glass-bg);
