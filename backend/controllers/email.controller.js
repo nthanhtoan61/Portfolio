@@ -65,15 +65,14 @@ const emailController = {
                                 <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-bottom: 25px;">
                                     <h3 style="color: #0a192f; margin: 0 0 15px 0;">Trong thời gian chờ đợi, mời Quý công ty tham khảo thêm:</h3>
                                     <ul style="margin: 0; padding-left: 20px;">
-                                        <li style="margin-bottom: 10px;">Portfolio và các dự án của tôi trên <a href="https://github.com/WiniFyCode" style="color: #00b8d4; text-decoration: none;">GitHub</a></li>
-                                        <li style="margin-bottom: 10px;">Thông tin chuyên môn trên <a href="https://www.linkedin.com/in/tranthanh23102005/" style="color: #00b8d4; text-decoration: none;">LinkedIn</a></li>
-                                        <li style="margin-bottom: 10px;">Hoạt động cá nhân trên <a href="https://www.facebook.com/tt230510/" style="color: #00b8d4; text-decoration: none;">Facebook</a></li>
+                                        <li style="margin-bottom: 10px;">Portfolio và các dự án của tôi trên <a href="https://github.com/nthanhtoan61" style="color: #00b8d4; text-decoration: none;">GitHub</a></li>
+                                        <li style="margin-bottom: 10px;">Hoạt động cá nhân trên <a href="https://www.facebook.com/thxtoan15/" style="color: #00b8d4; text-decoration: none;">Facebook</a></li>
                                     </ul>
                                 </div>
 
                                 <div style="text-align: center; margin-top: 30px;">
                                     <p style="color: #666; font-size: 14px;">Trân trọng,</p>
-                                    <p style="color: #0a192f; font-weight: bold; margin: 5px 0;">Trần Đình Thành</p>
+                                    <p style="color: #0a192f; font-weight: bold; margin: 5px 0;">Nguyễn Thanh Toàn</p>
                                     <p style="color: #666; font-size: 14px;">Full Stack Developer</p>
                                 </div>
 
