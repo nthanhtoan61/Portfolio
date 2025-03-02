@@ -375,7 +375,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Kích hoạt Easter Eggs
     addEasterEggs();
 
-    // Particles.js - Cấu hình hiệu ứng các hạt di chuyển màu đỏ
+    // Particles.js
     const particlesContainer = document.getElementById('particles-js');
     if (particlesContainer && window.particlesJS) {
         particlesJS('particles-js', {
@@ -388,7 +388,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     }
                 },
                 color: {
-                    value: '#ff0000' // Thay đổi màu thành đỏ
+                    value: '#64ffda'
                 },
                 shape: {
                     type: 'circle'
@@ -404,7 +404,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 line_linked: {
                     enable: true,
                     distance: 150,
-                    color: '#ff0000', // Thay đổi màu đường kết nối thành đỏ
+                    color: '#64ffda',
                     opacity: 0.2,
                     width: 1
                 },
