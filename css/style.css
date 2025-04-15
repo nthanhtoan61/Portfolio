@@ -17,6 +17,11 @@
     --glow-color: rgba(100, 255, 219, 0);
     --gradient-1: linear-gradient(45deg, #64ffda, #38ef7d);
     --gradient-2: linear-gradient(45deg, #0a192f, #172a45);
+
+    --small: 13px;
+    --medium: 15px;
+    --sub-title: 24px;
+    --title: 40px
 }
 
 body {
